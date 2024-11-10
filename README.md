@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @djtomne
+- 👋 Hi, I’m @quy
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning code
 - 💞️ I’m looking to collaborate on  
